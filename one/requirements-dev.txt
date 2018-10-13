@@ -1,2 +1,2 @@
 -r requirements.txt
-mongomock==3.10.0
+mongomock==3.13.0
